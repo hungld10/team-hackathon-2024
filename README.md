@@ -44,3 +44,11 @@ Nếu bạn có bất kỳ câu hỏi nào, hãy liên hệ với chúng tôi qu
 
 Chúng tôi mong chờ những ý tưởng sáng tạo và ấn tượng từ các bạn trong Hackathon AI 2024!
 
+
+
+---
+
+# Mục Lục
+
+- [Giới thiệu về AI](information/ai-intro.md)
+
