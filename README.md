@@ -40,7 +40,7 @@ Các đội xuất sắc sẽ có cơ hội nhận những phần thưởng hấ
 
 ## Cách tham gia
 
-Để đăng ký tham gia, vui lòng điền vào [link đăng ký] trước 03/11/2024. Hãy nhanh tay giành lấy phần thưởng, học hỏi kiến thức AI và thể hiện năng lực bản thân!
+Để đăng ký tham gia, vui lòng điền vào [link đăng ký](https://docs.google.com/forms/d/e/1FAIpQLScDrLYQx8tgfRT7bZx9kW0TrsdSYfJmQUXtocd5uU63WXfpeg/viewform?usp=sf_link) trước 03/11/2024. Hãy nhanh tay giành lấy phần thưởng, học hỏi kiến thức AI và thể hiện năng lực bản thân!
 
 ## Liên hệ
 
