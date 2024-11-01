@@ -2,8 +2,8 @@
 
 1. Team HH
     - Hùng
-    - Hiền
+    - Thuý Hiền
 2. Team 3 chị em không thân
     - Chi
-    - Hiền
+    - Thu Hiền
     - Hà
