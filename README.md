@@ -42,6 +42,9 @@ Các đội xuất sắc sẽ có cơ hội nhận những phần thưởng hấ
 
 Để đăng ký tham gia, vui lòng điền vào [link đăng ký](https://docs.google.com/forms/d/e/1FAIpQLScDrLYQx8tgfRT7bZx9kW0TrsdSYfJmQUXtocd5uU63WXfpeg/viewform?usp=sf_link) trước 04/11/2024. Hãy nhanh tay giành lấy phần thưởng, học hỏi kiến thức AI và thể hiện năng lực bản thân!
 
+Xem danh sách tham gia ở đây
+[Link](information/participants.md)
+
 ## Liên hệ
 
 Nếu bạn có bất kỳ câu hỏi nào, hãy liên hệ với chúng tôi qua email: hungld.nta@gmail.com hoặc nhắn đến tài khoản Chatwork: Le Duy Hung [ID 1605331].
