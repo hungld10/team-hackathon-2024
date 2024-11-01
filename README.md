@@ -6,7 +6,7 @@ Chào mừng bạn đến với Hackathon AI 2024! Cuộc thi này được tổ
 ## Thông tin cuộc thi
 
 - **Thành phần tham gia:** Các thành viên team 4
-- **Thời gian hoàn thành ứng dụng:** 01/11/2024 - 30/11/2024
+- **Thời gian hoàn thành ứng dụng:** 04/11/2024 - 30/11/2024
 - **Thời gian thuyết trình:** 02/12/2024
 - **Thời gian công bố kết quả:** 05/12/2024
 
@@ -25,7 +25,7 @@ Chủ đề của hackathon lần này là **"Ứng Dụng AI Trong Công Việc
 
 - **Số lượng thành viên:** Mỗi đội từ 1 đến 3 người.
 - **Ngôn ngữ lập trình:** Tự do (đề xuất phù hợp với công nghệ AI).
-- **Nộp bài:** Tất cả ứng dụng cần được nộp trước 30/11/2024.
+- **Nộp bài:** Tất cả ứng dụng cần được nộp trước 04/11/2024.
 
 ## Tiêu chí đánh giá
 
