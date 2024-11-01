@@ -27,6 +27,10 @@ Chủ đề của hackathon lần này là **"Ứng Dụng AI Trong Công Việc
 - **Ngôn ngữ lập trình:** Tự do (đề xuất phù hợp với công nghệ AI).
 - **Nộp bài:** Tất cả ứng dụng cần được nộp trước 30/11/2024.
 
+## Tiêu chí đánh giá
+
+Bài dự thi sẽ được đánh giá theo [các tiêu chí](information/scoring-criteria.md) bởi ban giám khảo.
+
 ## Giải thưởng
 
 Các đội xuất sắc sẽ có cơ hội nhận những phần thưởng hấp dẫn, bao gồm:
