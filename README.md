@@ -25,7 +25,7 @@ Chủ đề của hackathon lần này là **"Ứng Dụng AI Trong Công Việc
 
 - **Số lượng thành viên:** Mỗi đội từ 1 đến 3 người.
 - **Ngôn ngữ lập trình:** Tự do (đề xuất phù hợp với công nghệ AI).
-- **Nộp bài:** Tất cả ứng dụng cần được nộp trước 04/11/2024.
+- **Nộp bài:** Tất cả ứng dụng cần được nộp trước 30/11/2024.
 
 ## Tiêu chí đánh giá
 
@@ -40,7 +40,7 @@ Các đội xuất sắc sẽ có cơ hội nhận những phần thưởng hấ
 
 ## Cách tham gia
 
-Để đăng ký tham gia, vui lòng điền vào [link đăng ký](https://docs.google.com/forms/d/e/1FAIpQLScDrLYQx8tgfRT7bZx9kW0TrsdSYfJmQUXtocd5uU63WXfpeg/viewform?usp=sf_link) trước 03/11/2024. Hãy nhanh tay giành lấy phần thưởng, học hỏi kiến thức AI và thể hiện năng lực bản thân!
+Để đăng ký tham gia, vui lòng điền vào [link đăng ký](https://docs.google.com/forms/d/e/1FAIpQLScDrLYQx8tgfRT7bZx9kW0TrsdSYfJmQUXtocd5uU63WXfpeg/viewform?usp=sf_link) trước 04/11/2024. Hãy nhanh tay giành lấy phần thưởng, học hỏi kiến thức AI và thể hiện năng lực bản thân!
 
 ## Liên hệ
 
