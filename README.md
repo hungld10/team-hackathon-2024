@@ -60,6 +60,7 @@ Chúng tôi mong chờ những ý tưởng sáng tạo và ấn tượng từ c�
 # Các trang liên quan
 
 - [Giới thiệu về AI](information/AI-intro.md)
+- [Sơ đồ mô tả AI](information/AI-diagram.md)
 - [Hướng dẫn tạo ứng dụng AI đơn giản](information/steps-to-create-a-demo-app-with-AI.md)
 - [Thống kê về AI](information/AI-statistics.md)
 - [Danh sách các ý tưởng, ứng dụng với AI](information/AI-idea.md)
