@@ -13,6 +13,8 @@
     - Bảo
 5. Team **Ho Huu Thang**
     - Thắng
-6. 
+6. Team **Nguyên và Lâm**
+    - Nguyên
+    - Lâm
    
    
