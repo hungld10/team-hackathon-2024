@@ -3,7 +3,7 @@
 1. Team **HH**
     - Hùng
     - Thuý Hiền
-2. Team **3CH**
+2. Team **3CE**
     - Chi
     - Thu Hiền
     - Hà
